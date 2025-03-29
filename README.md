@@ -1,5 +1,6 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+Name:Levin Paul David
+Date:29/03/25
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
